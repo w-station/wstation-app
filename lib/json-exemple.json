@@ -1,0 +1,45 @@
+{
+    "temperature1": "22",
+    "humid1": "30",
+    "ressentie1": "29",
+    "air1": "8",
+    "weatherstyle1": "Ensoleillé",
+    "image1": "https://raw.githubusercontent.com/w-station/pull/master/icons/big/Ensoleill%C3%A9.png",
+    "date1": "Vendredi 21 Février 2020",
+
+    "temperature2": "13",
+    "humid2": "40",
+    "weatherstyle2": "Éclaircie",
+    "image2": "https://raw.githubusercontent.com/w-station/pull/master/icons/small/%C3%89claircie.png",
+    "date2": "Samedi 22/02",
+
+    "temperature3": "9",
+    "humid3": "70",
+    "weatherstyle3": "Pluvieux",
+    "image3": "https://raw.githubusercontent.com/w-station/pull/master/icons/small/Pluvieux.png",
+    "date3": "Dimanche 23/02",
+
+    "temperature4": "25",
+    "humid4": "80",
+    "weatherstyle4": "Orage",
+    "image4": "https://raw.githubusercontent.com/w-station/pull/master/icons/small/Orage.png",
+    "date4": "Lundi 24/02",
+
+    "temperature5": "15",
+    "humid5": "25",
+    "weatherstyle5": "Nuageux",
+    "image5": "https://raw.githubusercontent.com/w-station/pull/master/icons/small/Nuageux.png",
+    "date5": "Mardi 25/02",
+
+    "temperature6": "37",
+    "humid6": "80",
+    "weatherstyle6": "Canicule",
+    "image6": "https://raw.githubusercontent.com/w-station/pull/master/icons/small/Canicule.png",
+    "date6": "Mercredi 26/02",
+
+    "temperature7": "-2",
+    "humid7": "10",
+    "weatherstyle7": "Neige",
+    "image7": "https://raw.githubusercontent.com/w-station/pull/master/icons/small/Neige.png",
+    "date7": "Jeudi 27/02"
+}
